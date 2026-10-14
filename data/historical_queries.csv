@@ -1,0 +1,5 @@
+query,intent
+What is my current balance?,simple
+Change my home address,simple
+Did the bank breach Clause 4.2 by raising rates 0.75%?,complex
+Is the early repayment charge applicable if I sell?,complex
